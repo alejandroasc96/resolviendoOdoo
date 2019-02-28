@@ -4,8 +4,5 @@
 
 <img src"https://raw.github.com/alejandroasc96/resolviendoOdoo/master/problema.png" width="300">
 
-**Causa:** No queda claro qué acción produce dicho error.
-
+**Causa:** No queda claro qué acción produce dicho error.<br>
 **Solución:** La forma de arreglarlo es borrando toda la caché del navegador web.
-
-
