@@ -2,7 +2,7 @@
 
 ## TypeError: this.$buttons.off(...).destroy is not a function
 
-<img src"https://raw.githubusercontent.com/alejandroasc96/resolviendoOdoo/master/images/problema.png" width="300"/>
+<img src="https://raw.githubusercontent.com/alejandroasc96/resolviendoOdoo/master/images/problema.png" width="300"/>
 **Causa:** No queda claro qué acción produce dicho error.
 **Solución:** La forma de arreglarlo es borrando toda la caché del navegador web.
 
